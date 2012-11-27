@@ -111,6 +111,9 @@ autocmd FileType c,cpp,cc  set cindent comments=sr:/*,mb:*,el:*/,:// cino=>s,e0,
 "Show line numbers
 set number
 
+" No swap file
+set noswapfile
+
 "---------------------------------------------------------------------------
 " Tip #382: Search for <cword> and replace with input() in all open buffers
 "---------------------------------------------------------------------------
