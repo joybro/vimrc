@@ -114,6 +114,9 @@ set number
 " No swap file
 set noswapfile
 
+" Set no auto comment continuation
+autocmd FileType * setlocal formatoptions-=ro
+
 "---------------------------------------------------------------------------
 " Tip #382: Search for <cword> and replace with input() in all open buffers
 "---------------------------------------------------------------------------
