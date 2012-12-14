@@ -40,7 +40,7 @@ autocmd! bufwritepost .vimrc source ~/.vimrc
 syntax on		" syntax highlight
 set hlsearch		" search highlighting
 
-set background=light
+set background=dark
 colorscheme solarized
 
 set clipboard=unnamed	" yank to the system register (*) by default
@@ -99,9 +99,6 @@ endfunction
 
 " C/C++ specific settings
 autocmd FileType c,cpp,cc  set cindent comments=sr:/*,mb:*,el:*/,:// cino=>s,e0,n0,f0,{0,}0,^-1s,:0,=s,g0,h1s,p2,t0,+2,(2,)20,*30
-
-"Show line numbers
-set number
 
 " No swap file
 set noswapfile
