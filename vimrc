@@ -1,9 +1,10 @@
-" noraesae's vimrc
+" joybro's vimrc
 " Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
-" Forked by HyeonJe Jun <noraesae@yuiazu.net>
-" Fork me on GITHUB  https://github.com/noraesae/vimrc
+" HyeonJe Jun <noraesae@yuiazu.net>
+" Forked by Young Han Lee <joybro201@gmail.com>
+" Fork me on GITHUB  https://github.com/joybro/vimrc
 
-" read https://github.com/noraesae/vimrc/blob/master/README.md for more info
+" read https://github.com/joybro/vimrc/blob/master/README.md for more info
 
 
 " For pathogen.vim: auto load all plugins in .vim/bundle

@@ -1,21 +1,21 @@
-noraesae's vimrc
+joybro's vimrc
 ============
-Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
+Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>, HyeonJe Jun <noraesae@yuiazu.net>
 
-Forked by: HyeonJe Jun <noraesae@yuiazu.net>
+Forked by: Young Han Lee <joybro201@gmail.com>
 
-Fork me on GITHUB  https://github.com/noraesae/vimrc.
+Fork me on GITHUB  https://github.com/joybro/vimrc.
 
 ONE-STEP INSTALL
 ----------------
 
 Use curl (for Mac OS X):
 
-     curl -o - https://raw.github.com/noraesae/vimrc/master/auto-install.sh | sh
+     curl -o - https://raw.github.com/joybro/vimrc/master/auto-install.sh | sh
 
 or wget (for most UNIX platforms):
 
-     wget -O - https://raw.github.com/noraesae/vimrc/master/auto-install.sh | sh
+     wget -O - https://raw.github.com/joybro/vimrc/master/auto-install.sh | sh
 
 
 MANUALLY INSTALL
@@ -23,7 +23,7 @@ MANUALLY INSTALL
 
 1. Check out from github
 
-        git clone git://github.com/noraesae/vimrc.git ~/.vim
+        git clone git://github.com/joybro/vimrc.git ~/.vim
         cd ~/.vim
         git submodule update --init
 
@@ -44,7 +44,7 @@ MANUALLY INSTALL ON WINDOWS
 
         cd C:\Program Files\Vim   (or your installed path to Vim)
         rmdir /s vimfiles         (This deletes your old vim configurations. If you want to keep it, use move instead of rmdir.)
-        git clone git://github.com/noraesae/vimrc.git vimfiles
+        git clone git://github.com/joybro/vimrc.git vimfiles
         git submodule update --init
 
 2. Install vimrc. Add the following line at the end of C:\Program Files\Vim\vimrc.
