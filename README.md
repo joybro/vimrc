@@ -8,6 +8,7 @@ Fork me on GITHUB  https://github.com/joybro/vimrc.
 
 ONE-STEP INSTALL
 ----------------
+Run next command in your home directory.
 
 Use curl (for Mac OS X):
 
